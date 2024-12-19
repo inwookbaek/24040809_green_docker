@@ -1,7 +1,6 @@
 .metadata/
 .settings/
 .gradle/
-gradle/
 .mvn/
 target/
 build/
